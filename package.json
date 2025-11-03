@@ -1,6 +1,6 @@
 {
   "name": "@ribas160/react-identicons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GitHub-style identicons as PNGs or SVGs for React.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

@@ -3,7 +3,7 @@ import parse from 'html-react-parser';
 import sha1 from 'crypto-js/sha1';
 import { Identicon as IdenticonLib, type IdenticonOptions } from '../lib/identicon';
 
-export interface IdenticonProps extends IdenticonOptions {
+export interface IdenticonProps {
   value?: string,
   hash?: string,
   options?: IdenticonOptions,
